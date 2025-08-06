@@ -2,7 +2,8 @@ import React from "react";
 import bg from "../../assets/images/Vector.png";
 import androidIcon from "../../assets/images/andriod.png";
 import iosIcon from "../../assets/images/ios.png";
-import iphoneImg from "../../assets/images/iphone-14.png";
+import iphoneImg from "../../assets/images/iPhone-14.png";
+
 
 export default function DownloadApp() {
   return (
